@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @knightx9295
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning C++
-- 📫 How to reach me "well you can't"
-- 😄 Pronouns: KNIGHT
+- 📫 How to reach me abdullahasif9295@gmail.com
 - ⚡ Fun fact: My shadow is my rival.
 
 <!---
