@@ -1,7 +1,6 @@
 
 
 
-
 <h1 align="center">Hi 👋, I'm Abdullah</h1>  
 
 💻 **Computer Science Student @ FAST NUCES**  
