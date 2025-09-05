@@ -60,9 +60,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight)  
 
 ---
-
+<!---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=knightx9295&label=Stalkers%20Count&color=af121a&style=plastic" alt="knightx9295" /> </p>
-
+--->
 <!---
 knightx9295/knightx9295 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
