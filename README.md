@@ -43,7 +43,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
-  <a href="https://www.uml.org/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/000000/uml.png" alt="uml" width="40" height="40"/> </a>
   <a href="https://www.nasm.us/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/assembly.png" alt="assembly" width="40" height="40"/> </a>
 </p>
 
@@ -57,7 +56,7 @@
 ## 📫 Connect With Me  
 
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn www.linkedin.com/in/abdullah-asif-a6a90937b" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdullah-asif-a6a90937b" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/abdullah9295" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abdullah9295" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/QaKCs3JX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/QaKCs3JX" height="30" width="40" /></a>
 </p>
