@@ -66,8 +66,8 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=knightx9295&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knightx9295&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?user=knightx9295&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?user=knightx9295&layout=compact&theme=tokyonight)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=knightx9295&theme=tokyonight)  
 
 ---
